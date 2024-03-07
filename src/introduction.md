@@ -1,4 +1,8 @@
-![The Linera banner](README.assets/Linera-Header_1920x284px.svg)
+# The Linera Developer Manual
+
+
+
+![The Linera banner](introduction.assets/Linera-Header_1920x284px.svg)
 
 # [The Linera Developer Manual](https://linera.dev/introduction.html#the-linera-developer-manual)
 
@@ -13,5 +17,3 @@ This documentation is intended for developers who wish to learn more about Liner
 To join our community and get involved in the development of the Linera ecosystem, check out our [GitHub repository](https://github.com/linera-io/linera-protocol), our [website](https://linera.io/), and find us on social media channels such as [youtube](https://www.youtube.com/@linera_io), [twitter](https://twitter.com/linera_io), [telegram](https://t.me/linera_official), and [discord](https://discord.gg/linera).
 
 Let's get started!
-
-[The Linera Developer Manual](https://linera.dev/introduction.html)
